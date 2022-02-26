@@ -1,0 +1,10 @@
+project/
+*.txt
+*.xlsx
+*.pdf
+*.csv
+*.txt
+*.bin
+*.png
+eng_w2v
+*.xml
